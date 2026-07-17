@@ -33,3 +33,15 @@ Enterprise Knowledge Assistant | Python, ChromaDB, OpenAI API | GitHub
 
 **EDUCATION**
 BE Information Technology, D. Y. Patil College of Engineering, Pune | CGPA 8.69
+
+
+
+Notes for money n you
+
+Money & You | Next.js, React, Claude API, Sarvam AI, Supabase (pgvector), Vercel | GitHub
+
+* Designed and developed an AI-powered personal finance intelligence platform enabling conversational expense tracking and contextual financial analysis using LLM-based workflows.
+* Architected vector-memory based financial conversations using Supabase (pgvector) to retain historical context and deliver personalized insights across user interactions.
+* Integrated multiple AI services, including Claude and Sarvam AI, for intelligent expense categorization, natural language querying, and personalized financial recommendations.
+* Built emotion-spend correlation analytics with daily and monthly dashboards to identify spending patterns and behavioral trends from financial data.
+* Directed phased implementation using AI-assisted development workflows, making technical decisions around application architecture, vector storage, AI integrations, and production deployment on Vercel.
