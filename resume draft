@@ -35,6 +35,12 @@ Enterprise Knowledge Assistant | Python, ChromaDB, OpenAI API | GitHub
 BE Information Technology, D. Y. Patil College of Engineering, Pune | CGPA 8.69
 
 
+After implementing it, these bullets accurately reflect the work:
+
+* Built a Retrieval-Augmented Generation (RAG) pipeline for enterprise configuration documents using Python, ChromaDB, and OpenAI APIs.
+* Implemented document ingestion, chunking, embedding generation, and semantic retrieval to answer natural-language questions from enterprise knowledge bases.
+* Designed grounded-response generation by combining vector similarity search with LLM-based answer synthesis while minimizing hallucinations through context-constrained prompting.
+* Developed an interactive Streamlit interface enabling real-time document querying and retrieval visualization.
 
 Notes for money n you
 
