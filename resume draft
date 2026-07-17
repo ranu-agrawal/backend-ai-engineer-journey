@@ -1,0 +1,35 @@
+**Ranu Agrawal**
+Software Engineer — Backend Systems & AI Applications
+[email] | [phone] | linkedin.com/in/ranu-agrawal | github.com/ranu-agrawal
+
+**SUMMARY**
+Software engineer with 2+ years of enterprise experience building REST APIs, data transformation pipelines, and system integrations. Backend foundation in Java/Spring Boot with hands-on experience building AI-powered applications using LLMs, embeddings, and RAG pipelines. Strong SQL and DSA fundamentals.
+
+**TECHNICAL SKILLS**
+Languages: Java, Python, SQL, JavaScript
+Backend: Spring Boot, Spring Security (JWT), REST APIs, Spring Data JPA
+AI: OpenAI API, Embeddings, RAG, ChromaDB, Flask microservices
+Databases: MySQL, SQL 
+Tools: Docker, Git, GitHub, Postman
+
+**PROFESSIONAL EXPERIENCE**
+
+EY — Associate Consultant | Mar 2024 – Present | Pune, India
+- Built 7 UKG Pro WFM integrations from scratch with external systems including SAP and Salesforce, validating API feasibility via UKG's developer hub and Postman testing
+- Maintained and debugged production integrations across Timekeeping, Scheduling, and Payroll modules
+- Built a Python (pandas) solution to batch-process CSVs for SAP ingestion — dynamic headers/trailers, transformation/filtering logic, error flagging — replacing a Power Automate workflow limited to 100MB files
+
+**PROJECTS**
+
+AI Career Copilot | Java, Spring Boot, Python, Flask, MySQL, OpenAI API, Docker | GitHub
+- Built a full-stack job application tracker with JWT-authenticated Spring Boot backend, SQL-based CRUD, and PDF resume upload/parsing
+- Integrated a Python/Flask microservice using OpenAI embeddings to compute resume–job description match scores and identify skill gaps
+- Built an agent-style interview prep flow: identifies weak areas, generates targeted questions and model answers via chained LLM calls
+- Containerized full stack (Spring Boot + Flask + MySQL) with Docker Compose
+
+Enterprise Knowledge Assistant | Python, ChromaDB, OpenAI API | GitHub
+- Built a RAG pipeline over enterprise configuration documents — chunking, embedding, and semantic retrieval using ChromaDB
+- Answers natural-language questions by retrieving relevant document chunks and generating grounded responses via LLM
+
+**EDUCATION**
+BE Information Technology, D. Y. Patil College of Engineering, Pune | CGPA 8.69
